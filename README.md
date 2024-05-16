@@ -12,7 +12,7 @@
 - Currently working in the process of developing an API for seamless integration of the object detection functionality and Dockerizing the application for easy 
   deployment and scalability.
 
-For the source code, refer to _[SourceCode.ipynb](https://nbviewer.org/github/RC2303/ComputerVision/blob/main/SourceCode.ipynb)_.
+For the source code, refer to _[SourceCode.ipynb](https://nbviewer.org/github/RC2303/ComputerVision/blob/main/Source_Code.ipynb)_.
 
 ![Slide 1](Presentation/1.png)
 ![Slide 2](Presentation/2.png)
