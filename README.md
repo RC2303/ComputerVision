@@ -29,5 +29,3 @@ For the source code, refer to _[SourceCode.ipynb](https://nbviewer.org/github/RC
 ![Slide 13](Presentation/13.png)
 ![Slide 14](Presentation/14.png)
 ![Slide 15](Presentation/15.png)
-
-Note the SourceCode JupyterNotebook can be found on: [Link to Notebook](https://nbviewer.org/github/RC2303/project/blob/main/use..ipynb)
